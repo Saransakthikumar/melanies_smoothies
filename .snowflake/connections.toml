@@ -1,0 +1,8 @@
+[my_connection]
+user = "SARANSAKTHIKUMAR"
+password = "S@kthiswetha619"
+account = "MTWLHCQ-TWB42239"
+warehouse = "COMPUTE_WH"
+database = "SMOOTHIES"
+schema = "PUBLIC"
+role = "SYSADMIN"
